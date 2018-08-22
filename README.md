@@ -1,5 +1,4 @@
 ## Video or Image processing  
-Real-time face detection and emotion/gender classification using fer2013/IMDB datasets with a keras CNN model and openCV.
 * video translate into frame
 * locatting special position then cropping
 
