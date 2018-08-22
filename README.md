@@ -6,10 +6,10 @@ Real-time face detection and emotion/gender classification using fer2013/IMDB da
 
 # examples:
 ### make video into frame:
-> python video_to_frame.py
+* python video_to_frame.py
 
 ### crop special zoom:
-> python image_segment.py
+* python image_segment.py
 
 ### crop face's zoom from video:
-> python object_tracking.py
+* python object_tracking.py
